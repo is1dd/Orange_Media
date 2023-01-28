@@ -1,0 +1,12 @@
+.container table th,
+.container table td {
+  text-align: start;
+  width: 30%;
+  padding: 0.4rem 0.31rem;
+  border-bottom: 1.5px solid gray;
+}
+.container table {
+  border-spacing: 0;
+  width: 45%;
+  margin: auto;
+}
